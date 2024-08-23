@@ -1,3 +1,4 @@
-# voron24
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
 
-Backups for my Voron 2.4 printer
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
